@@ -23,7 +23,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=sarathkumarmp55&theme=react-dark"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=sarathcraft&theme=react-dark"/>
 </p>
 
 ## 💳 Github Profile Summary Card
