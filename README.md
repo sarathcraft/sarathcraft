@@ -9,7 +9,7 @@
 - 🔭 I’m currently building [Frappe](https://frappe.io/) ERPNext.
 - 🌱 I’m currently learning more about Javascript,HTML,CSS,Bootstrap,vue.js and python.
 - 💬 Ask me about ERPNext and Frappe Framework .
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me: Check social Media links below.
 
 
 ## 🌐 Socials
