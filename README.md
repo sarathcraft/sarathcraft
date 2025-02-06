@@ -5,7 +5,7 @@
 
 
 # 💫 About Me :
-- 😄 Pronouns: Mr.. Call Me -- Sara's....
+- 😄 Pronouns: Mr.. Call Me -- Sara's...
 - 🔭 I’m currently building [Frappe](https://frappe.io/) ERPNext.
 - 🌱 I’m currently learning more about Javascript,HTML,CSS,Bootstrap,vue.js and python.
 - 💬 Ask me about ERPNext and Frappe Framework .
